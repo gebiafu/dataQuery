@@ -26,7 +26,7 @@
 - JWT Token认证
 - 登录状态持久化
 
-![登录页面](.\\img\\login.png)
+![登录页面](img/login.png)
 
 ### 2. 数据源管理
 - 支持MySQL和PostgreSQL数据源
@@ -43,7 +43,7 @@
 - 实时查看执行结果
 - 支持查看执行耗时
 
-![事件页面](.\\img\\eventmanager.png)
+![事件页面](img/eventmanager.png)
 
 ### 4. 调度管理
 - 基于Quartz的定时任务调度
@@ -52,7 +52,7 @@
 - 查看调度执行日志
 - 任务状态实时显示
 
-![调度页面](.\\img\\taskmanager.png)
+![调度页面](img/taskmanager.png)
 
 ### 5. 事件日志
 - 记录所有SQL执行历史
@@ -60,7 +60,7 @@
 - 按时间范围查询
 - 详细的执行信息展示（SQL内容、执行结果、错误信息等）
 
-![日志页面](.\\img\\log.png)
+![日志页面](img/log.png)
 
 ## 快速开始
 
